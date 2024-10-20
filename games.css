@@ -55,7 +55,7 @@ body {
 }
 
 #loader h1 span {
-    color: #f700ff;
+    color: #008cff;
 }
 
 #loader p {
@@ -80,7 +80,7 @@ body {
     height:6vw;
     border-radius: 50%;
     border: 10px solid #fff;
-    border-top-color: #f700ff;
+    border-top-color: #008cff;
     animation: loader 1s linear infinite;
     box-shadow: 0 0 10px #ffffff7a;
 }
