@@ -169,7 +169,7 @@ body {
 
 .content .start:hover {
     transition: all 0.3s ease-in-out;
-    background-color: #fa70ffce;
+    background-color: #055496ce;
     transform:skewX(-10deg) translate(-51%, -51%) scale(1.2); 
     cursor: pointer;
 }
